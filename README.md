@@ -19,6 +19,7 @@ Jasenev Store
 │
 ├── /js/                   # Скрипти JavaScript (Зарезервовано)
 │
+
 ├── index.html             # Головна сторінка
 ├── about.html             # Про нас
 ├── accessories.html       # Категорія: Аксесуари
